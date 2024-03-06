@@ -2,7 +2,12 @@
 <h3 align="center">A passionate technoholic from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tamannaverma99&label=Profile%20views&color=0e75b6&style=flat" alt="tamannaverma99" /> </p>
-<p align="center">I like to think of myself as a quick learner, who loves to take up new challenges and learn anything new that comes on my way :)
+<img align ="right" alt="GirlWhoCodes"  width="400" src="girl codes.gif">
+
+<p><b>I like to think of myself as a quick learner, who loves to take up new challenges and learn anything new that comes on my way :)</p>
+</b>
+<p align="left">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tamanna-verma-1b6ab5230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamanna-verma-1b6ab5230" height="30" width="40" /></a>
